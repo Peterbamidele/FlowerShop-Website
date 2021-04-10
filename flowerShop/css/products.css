@@ -1,0 +1,30 @@
+:root{
+    --white-light:rgba(225, 255, 255, 0.5);
+    --alice-blue:#f8f9fa;
+    --carribean-green:#40c9a2;
+    --gray:#ededed;
+}
+* {padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'quickand', sans-serif;
+}
+img{
+    width: 100%;
+    display: block;
+}
+.continer {
+    width: 88vw;
+    margin: 0 auto;
+}
+.lg-title,
+.md-title,
+.sa-ttile {
+    font-family:'Roboto',sans-serif;
+    padding: 0.6rem 0;
+    text-transform: capitalize;
+}
+
+   
